@@ -1,0 +1,45 @@
+body{
+	margin:0;
+}
+.header{
+	background-color:black;
+	color:white;
+	height:5.6em;
+	display:inline;
+	float:left;
+	width:100%;
+}
+.firstheader{
+	font-size: 3em; 
+	font-weight:200;
+	float:left;
+	margin-right:10px;
+	margin-top:0px;
+}
+.firstlist{
+	display:inline-block;	
+	margin-left:12px;
+	float:left;
+	padding-top:20px;
+}
+.hover{
+	color:white;
+	text-decoration:none;
+}
+.home{
+	background-color:red;
+	padding:38px 10px 32.6px 10px;
+	color:white;
+	text-decoration:none;
+}
+.hover:hover{
+	background-color:blue;
+	padding:38px 10px 32.5px 10px;
+}
+.divider{
+	background-color: red;
+	height:8px;
+}
+
+
+
